@@ -1,11 +1,18 @@
-import { Container } from "react-bootstrap";
+import Container from "react-bootstrap/Container";
 
-import Main from "../../components/main";
+import Main from "../../components/Navi/main";
+
+import './home.css'
 function Home() {
   return (
-    <Container fluid="true">
-      <div className="main-view">
-        <Main />
+    <Container className='fixedContainer' fluid>
+      
+      <div className="row justify-content-center">
+
+  
+          <Main />
+ 
+
       </div>
     </Container>
   );

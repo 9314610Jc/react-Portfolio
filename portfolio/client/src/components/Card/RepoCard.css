@@ -1,0 +1,22 @@
+#repoCard{
+    height: 175px;
+    background-color: rgba(255, 255, 255, 0.58);
+    backdrop-filter: blur(10px);
+    
+
+}
+#topCard{
+    border-radius: none;
+    border:none;
+    background-color: rgba(255, 255, 255, 0.514);
+    border-radius: 0%;
+    border:none;
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+#description{
+    font-weight: 600;
+}
+#link{
+    color: rgb(177, 12, 0);
+}

@@ -1,0 +1,21 @@
+#nav {
+  background-color: rgba(255, 255, 255, 0.041);
+  border: 0;
+}
+#menuCard {
+  background-color: rgba(255, 255, 255, 0.062);
+  /* margin-top: 40%; */
+  border-radius: 25px;
+  border: 0;
+  backdrop-filter: blur(25px);
+  
+}
+#name {
+  padding-top: 50px;
+  font-size: 42px;
+  font-weight: 525;
+}
+#position {
+  font-size: large;
+  font-weight: 500;
+}
