@@ -8,7 +8,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Navi from "./components/Navi/Navi";
 
 import Home from "./pages/Main/home.js";
-import AboutMe from "./pages/About/AboutMe";
+import AboutMe from "./pages/about/AboutMe";
 import Projects from "./pages/Projects/Projects";
 
 function App() {
